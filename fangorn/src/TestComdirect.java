@@ -10,8 +10,8 @@ import java.io.*;
 import kurse.Kurs;
 
 /**
- * @author Administrator
- *
+ * @author Ralf
+ * 
  * TODO To change the template for this generated type comment go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
