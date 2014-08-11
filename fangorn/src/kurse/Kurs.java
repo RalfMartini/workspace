@@ -6,7 +6,7 @@ package kurse;
 import java.util.Calendar;
 
 /**
- * @author rma
+ * @author Ralf
  *
  */
 public class Kurs {
